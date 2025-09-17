@@ -1,16 +1,16 @@
-![](https://komarev.com/ghpvc/?username=preeeetham&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=your-github-preeeetham&abbreviated=true)
 
 <img src="https://img.shields.io/badge/Who_you_are_when_no_one's_watching-8A2BE2" />
 
 # PREEETHAM
 
-I’m a **Software Developer** focused on building practical, high‑impact software and learning in public. I enjoy shipping, optimizing developer workflows, and contributing to open source.
+> I’m a **Software Developer** passionate about building cool stuff, solving problems, and staying ahead of the tech curve. I love exploring new innovations and contributing to open-source.
 
 ---
 
 ## 🔗 Find Me Here
 
-<p align="center">
+<p align="start">
   <a href="https://x.com/0xgravitty" target="_blank">
     <img src="https://img.shields.io/badge/X-1DA1F2?logo=x&logoColor=white" alt="X" />
   </a>
@@ -33,41 +33,13 @@ I’m a **Software Developer** focused on building practical, high‑impact soft
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=preeeetham&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=preeeetham&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
 </p>
 
 ---
 
-## 📌 Pinned Projects
-
 <p align="center">
-  <!-- Replace `repo-name` with your repository names -->
-  <a href="https://github.com/preeeetham/repo-name"><img src="https://github-readme-stats.vercel.app/api/pin/?username=preeeetham&repo=repo-name&theme=dark&hide_border=true" alt="Pinned Repo" /></a>
-  <a href="https://github.com/preeeetham/repo-name"><img src="https://github-readme-stats.vercel.app/api/pin/?username=preeeetham&repo=repo-name&theme=dark&hide_border=true" alt="Pinned Repo" /></a>
-</p>
-## 🚧 Currently Building
-
-- Improving my workflow and automations around shipping projects
-- Exploring performance optimizations across the stack
-- Open to collaborating on interesting problems
-
----
-
-## 🤝 Contact
-
-If you want to connect or collaborate, reach out via email at
-`spreethamkumar5@gmail.com` or DM on X/LinkedIn (links above).
-
----
-
----
-
-<p align="center">
-  <img src="https://github.com/preeeetham/preeeetham/blob/output/github-snake-dark.svg" alt="Snake Animation" />
+  <img src="https://github.com/alok-mishra143/alok-mishra143/blob/output/github-snake-dark.svg" alt="Snake Animation" />
 </p>
 
 ---
